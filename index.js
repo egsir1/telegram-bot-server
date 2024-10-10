@@ -10,9 +10,7 @@ const app = express();
 app.use(express.json());
 app.use(
   cors({
-    origin: "https://telegram-web-app-client.vercel.app", // Replace with your Vercel app's URL
-    methods: ["GET", "POST"], // Allow specific HTTP methods (or use '*' for all methods)
-    allowedHeaders: ["Content-Type", "Authorization"], // Add other headers if needed
+    origin: true,
   })
 );
 
