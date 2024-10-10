@@ -114,6 +114,7 @@ bootstrap();
 
 app.post("/web-data", async (req, res) => {
   const { queryID, products } = req.body;
+  console.log("🚀 ~ app.post ~ req.body:", req.body);
 
   try {
     await bot.answerWebAppQuery(queryID, {
