@@ -41,7 +41,7 @@ const bootstrap = () => {
                 {
                   text: "Check courses",
                   web_app: {
-                    url: "https://telegram-web-app-client.vercel.app/",
+                    url: "http://191.96.31.116:3002/",
                   },
                 },
               ],
@@ -63,7 +63,7 @@ const bootstrap = () => {
                 {
                   text: "Check courses",
                   web_app: {
-                    url: "https://telegram-web-app-client.vercel.app/",
+                    url: "http://191.96.31.116:3002/",
                   },
                 },
               ],
