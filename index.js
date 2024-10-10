@@ -41,7 +41,7 @@ const bootstrap = () => {
                 {
                   text: "Check courses",
                   web_app: {
-                    url: "http://191.96.31.116:3002/",
+                    url: "https://8dd8-61-105-6-104.ngrok-free.app ",
                   },
                 },
               ],
@@ -63,7 +63,7 @@ const bootstrap = () => {
                 {
                   text: "Check courses",
                   web_app: {
-                    url: "http://191.96.31.116:3002/",
+                    url: "https://8dd8-61-105-6-104.ngrok-free.app",
                   },
                 },
               ],
