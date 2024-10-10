@@ -41,7 +41,7 @@ const bootstrap = () => {
                 {
                   text: "Check courses",
                   web_app: {
-                    url: "https:bargaino.net ",
+                    url: "https//:bargaino.net ",
                   },
                 },
               ],
@@ -63,7 +63,7 @@ const bootstrap = () => {
                 {
                   text: "Check courses",
                   web_app: {
-                    url: "https:bargaino.net",
+                    url: "https//:bargaino.net",
                   },
                 },
               ],
